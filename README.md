@@ -1,2 +1,2 @@
-# frontendmentor-io-challenge3
+# rating-module
 Interactive review module.
